@@ -31,9 +31,9 @@
     </developers>
   
       <scm>
-        <connection>scm:git:git://github.com/shashankramesh01/mvn.git</connection>
-        <developerConnection>scm:git:ssh://github.com/shashankramesh01/mvn.git</developerConnection>
-        <url>http://github.com/shashankramesh01/mvn/tree/main</url>
+        <connection>scm:git:git://github.com/shashankramesh01/mvndeploy.git</connection>
+        <developerConnection>scm:git:ssh://github.com/shashankramesh01/mvndeploy.git</developerConnection>
+        <url>http://github.com/shashankramesh01/mvndeploy/tree/main</url>
     </scm>
 
   <properties>
